@@ -1,0 +1,58 @@
+   [
+        {
+           "id" : "1", 
+         "img" : "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/wauayrp8r68fumumwls6", 
+         "Name"  : "URU Brewpark",
+          "Categories" : ["Continental" , "Pizza" , "Asian" , "Dessert"],
+          "Cost" : "600",
+          "Min" : "50",
+          "Rating" : "4.3",
+          "Votes" : "766",
+          "Reviews" : "512",
+          "payment" : "Online" 
+       } ,
+       {
+        "id" : "2",
+        "Name"  : "URU Brewpark",
+         "Categories" : ["Continental" , "Pizza" , "Asian" , "Dessert"],
+         "Cost" : "600",
+         "Min" : "50",
+         "Rating" : "4.3",
+         "Votes" : "766",
+         "Reviews" : "512",
+         "payment" : "Online" 
+      } ,
+      {
+          "id": "3", 
+        "Name"  : "URU Brewpark",
+         "Categories" : ["Continental" , "Pizza" , "Asian" , "Dessert"],
+         "Cost" : "600",
+         "Min" : "50",
+         "Rating" : "4.3",
+         "Votes" : "766",
+         "Reviews" : "512",
+         "payment" : "Online" 
+      } ,
+      {
+        "id": "4", 
+        "Name"  : "URU Brewpark",
+         "Categories" : ["Continental" , "Pizza" , "Asian" , "Dessert"],
+         "Cost" : "600",
+         "Min" : "50",
+         "Rating" : "4.3",
+         "Votes" : "766",
+         "Reviews" : "512",
+         "payment" : "Online" 
+      } ,
+      { 
+        "id": "5", 
+        "Name"  : "URU Brewpark",
+         "Categories" : ["Continental" , "Pizza" , "Asian" , "Dessert"],
+         "Cost" : "600",
+         "Min" : "50",
+         "Rating" : "4.3",
+         "Votes" : "766",
+         "Reviews" : "512",
+         "payment" : "Online" 
+      }
+   ]
